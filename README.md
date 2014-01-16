@@ -33,7 +33,7 @@ Steps:
 ![Branching out] (IMG/Branch1.PNG?raw=true)
 
 6. Edit Passed.txt and include your name (Make sure you are working on the right branch)
-
+![Deface that document soldier] (IMG/Edit1.PNG?raw=true)
 7. Commit your changes to GithubPros
 
 8. Since you are not a member of CIT275DevGroup you will have to make a pull request to have your work added to the main repository.
