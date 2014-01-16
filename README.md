@@ -36,4 +36,13 @@ Steps:
 
 7. Commit your changes to GithubPros
 
-8. Since you are not a member of CIT275DevGroup you will have to make a pull request to have your work added to the main repository.  
+8. Since you are not a member of CIT275DevGroup you will have to make a pull request to have your work added to the main repository.
+![Pull pull pull] (IMG/Pull1.PNG?raw=true)
+9. Assuming I get around to it your pull request will be accepted and merged into CIT275DevGroup/HelloWorld
+![Success] (IMG/Results1.PNG?raw=true)
+10. You did it!!!
+
+
+##FAQ
+
+If you have any questions please create an issue and apply the question label to it, maybe it will even get put here!
