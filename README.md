@@ -1,6 +1,6 @@
 #HelloWorld
 
-###What this is
+###What is this?
 A test repo to help get group members up to speed on Git.
 
 ***
@@ -17,7 +17,7 @@ Basics of Git:
 
 Assignment:  
   
-To create a branch of GithubPros in this repo and change the Passed.txt file to include your name and merge it back into the GithubPros branch.
+To fork this repo and change the [Passed.txt] (Passed.txt) file to include your name and merge it back into the CIT275DevGroup main branch.
 
 Steps:
 
@@ -26,4 +26,14 @@ Steps:
 2. Go to [HelloWorld] (https://github.com/CIT275DevGroup/HelloWorld)
 
 3. Click the fork button  
+![The fork button] (IMG/Fork1.PNG?raw=true)  
+4. Click your name  
+![Fork it to ya] (IMG/Fork2.PNG?raw=true)
+5. Create a new branch called GithubPros
+![Branching out] (IMG/Branch1.PNG?raw=true)
 
+6. Edit Passed.txt and include your name /(Make sure you are working on the right branch/)
+
+7. Commit your changes to GithubPros
+
+8. Since you are not a member of CIT275DevGroup you will have to make a pull request to have your work added to the main repository.  
