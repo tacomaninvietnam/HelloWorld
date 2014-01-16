@@ -47,4 +47,8 @@ Steps:
 
 ##FAQ
 
+1. [How do I use git locally?] (https://github.com/CIT275DevGroup/HelloWorld/issues/4)
+
+2. [But I wanna use it with Visual Studio!!!!!!!!!] (https://github.com/CIT275DevGroup/HelloWorld/issues/3)
+
 If you have any questions please create an issue and apply the question label to it, maybe it will even get put here!
