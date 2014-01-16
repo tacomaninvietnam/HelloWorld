@@ -38,6 +38,8 @@ Steps:
 
 8. Since you are not a member of CIT275DevGroup you will have to make a pull request to have your work added to the main repository.
 ![Pull pull pull] (IMG/Pull1.PNG?raw=true)
+99. Make sure the base (Branch to be updated) and head (Branch to update base with) are correct.
+![Submit submit submit] (IMG/Pull2.PNG?raw=true)
 9. Assuming I get around to it your pull request will be accepted and merged into CIT275DevGroup/HelloWorld
 ![Success] (IMG/Results1.PNG?raw=true)
 10. You did it!!!
