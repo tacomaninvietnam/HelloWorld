@@ -32,7 +32,7 @@ Steps:
 5. Create a new branch called GithubPros
 ![Branching out] (IMG/Branch1.PNG?raw=true)
 
-6. Edit Passed.txt and include your name /(Make sure you are working on the right branch/)
+6. Edit Passed.txt and include your name (Make sure you are working on the right branch)
 
 7. Commit your changes to GithubPros
 
