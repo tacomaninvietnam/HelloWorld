@@ -1,2 +1,2 @@
-#These users have passed the tutorial
-* No one has passed
+These users have passed the tutorial:
+  -No one has passed the tutorial
