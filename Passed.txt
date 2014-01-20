@@ -1,2 +1,3 @@
 These users have passed the tutorial:
   -Cameron VanHouzen
+  -Blaine Simcox
